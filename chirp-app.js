@@ -20,4 +20,28 @@ app.controller('mainController', function($scope){
 
 });
 
-// https://www.youtube.com/watch?v=Jh0er2pRcq8 57.45
+
+// The auth or register controller
+app.controller('authController', function($scope){
+	$scope.user = {username: '', password: ''};
+	$scope.error_message = '';
+
+	$scope.login = function(){
+		//Placeholder until authentication is implemented
+		$scope.error_message = 'Login request for ' + $scope.user.username;
+	};
+
+	$scope.register = function(){
+		//Placeholder until authentication is implemented.
+		$scope.error_message = 'Registration request for ' + $scope.user.username;
+	};
+
+});
+
+
+
+
+
+// https://www.youtube.com/watch?v=Jh0er2pRcq8 109.10
+
+// https://github.com/microsoftlearning/chirp/tree/master

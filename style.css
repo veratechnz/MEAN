@@ -1,0 +1,63 @@
+
+Skip to content
+This repository
+
+    Explore
+    Features
+    Enterprise
+    Blog
+
+16
+57
+
+    82
+
+hwz/chirp
+
+chirp/module-2/completed/public/stylesheets/style.css
+@hwz hwz on 18 Feb module 2 ready updates
+
+1 contributor
+37 lines (31 sloc) 0.478 kB
+body {
+	padding-top:70px;
+	width: 100%;
+    height: 100%;
+	width: 100%;
+    height: 100%;
+    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+a {
+	color: #00B7FF;
+}
+
+.submit-btn {
+	background-color: #b1dbff;
+	margin: 10px 0 10px 0;
+}
+
+.post {
+	padding: 10px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
+
+.odd {
+	background-color: #f2f9ff;
+	
+}
+.even {
+	background-color: #eceff3;
+}
+
+.form-auth {
+	max-width: 330px;
+	padding: 5px;
+	margin: 0 auto;
+}
+
+    Status API Training Shop Blog About Help 
+
+    © 2015 GitHub, Inc. Terms Privacy Security Contact 
+
