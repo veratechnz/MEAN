@@ -1,24 +1,3 @@
-
-Skip to content
-This repository
-
-    Explore
-    Features
-    Enterprise
-    Blog
-
-16
-57
-
-    82
-
-hwz/chirp
-
-chirp/module-2/completed/public/stylesheets/style.css
-@hwz hwz on 18 Feb module 2 ready updates
-
-1 contributor
-37 lines (31 sloc) 0.478 kB
 body {
 	padding-top:70px;
 	width: 100%;
@@ -56,6 +35,8 @@ a {
 	padding: 5px;
 	margin: 0 auto;
 }
+
+input{margin-bottom: 3%;}
 
     Status API Training Shop Blog About Help 
 
